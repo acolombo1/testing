@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "> \r ## Built With",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acolombo1/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acolombo1/testing/issues"
+  },
+  "homepage": "https://github.com/acolombo1/testing#readme",
+  "dependencies": {
+    "jest": "^28.0.3"
+  }
+}
